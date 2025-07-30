@@ -1,0 +1,11 @@
+[
+  { "seq": 1, "type": 1, "question": "I like to keep things organized." },
+  { "seq": 2, "type": 2, "question": "I enjoy helping others." },
+  { "seq": 3, "type": 3, "question": "I strive to be successful." },
+  { "seq": 4, "type": 4, "question": "I often feel different from others." },
+  { "seq": 5, "type": 5, "question": "I seek knowledge and understanding." },
+  { "seq": 6, "type": 6, "question": "I worry about potential problems." },
+  { "seq": 7, "type": 7, "question": "I love new and exciting experiences." },
+  { "seq": 8, "type": 8, "question": "I like to be in control." },
+  { "seq": 9, "type": 9, "question": "I prefer to avoid conflict." }
+]
