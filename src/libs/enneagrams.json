@@ -1,0 +1,83 @@
+[
+  {
+    "type": 1,
+    "title": { "korean": "완벽주의자", "english": "Reformer" },
+    "core_fear": "Being wrong",
+    "core_desire": "Integrity",
+    "summary": "Type 1 is principled and perfectionistic.",
+    "description": "Type 1 strives to be good and right.",
+    "wings": []
+  },
+  {
+    "type": 2,
+    "title": { "korean": "조력자", "english": "Helper" },
+    "core_fear": "Being unwanted",
+    "core_desire": "Love",
+    "summary": "Type 2 is caring and interpersonal.",
+    "description": "Type 2 wants to be loved and needed.",
+    "wings": []
+  },
+  {
+    "type": 3,
+    "title": { "korean": "성취자", "english": "Achiever" },
+    "core_fear": "Failure",
+    "core_desire": "Success",
+    "summary": "Type 3 is adaptable and driven.",
+    "description": "Type 3 desires to excel and be admired.",
+    "wings": []
+  },
+  {
+    "type": 4,
+    "title": { "korean": "개성추구자", "english": "Individualist" },
+    "core_fear": "Having no identity",
+    "core_desire": "Uniqueness",
+    "summary": "Type 4 is sensitive and introspective.",
+    "description": "Type 4 seeks meaning and authenticity.",
+    "wings": []
+  },
+  {
+    "type": 5,
+    "title": { "korean": "탐구자", "english": "Investigator" },
+    "core_fear": "Being helpless",
+    "core_desire": "Competence",
+    "summary": "Type 5 is perceptive and cerebral.",
+    "description": "Type 5 values knowledge and understanding.",
+    "wings": []
+  },
+  {
+    "type": 6,
+    "title": { "korean": "충성가", "english": "Loyalist" },
+    "core_fear": "Insecurity",
+    "core_desire": "Support",
+    "summary": "Type 6 is committed and security-oriented.",
+    "description": "Type 6 seeks safety and reassurance.",
+    "wings": []
+  },
+  {
+    "type": 7,
+    "title": { "korean": "낙천가", "english": "Enthusiast" },
+    "core_fear": "Pain",
+    "core_desire": "Enjoyment",
+    "summary": "Type 7 is spontaneous and fun-loving.",
+    "description": "Type 7 craves new experiences and freedom.",
+    "wings": []
+  },
+  {
+    "type": 8,
+    "title": { "korean": "도전가", "english": "Challenger" },
+    "core_fear": "Weakness",
+    "core_desire": "Strength",
+    "summary": "Type 8 is self-confident and decisive.",
+    "description": "Type 8 wants to be in control of their destiny.",
+    "wings": []
+  },
+  {
+    "type": 9,
+    "title": { "korean": "평화주의자", "english": "Peacemaker" },
+    "core_fear": "Conflict",
+    "core_desire": "Harmony",
+    "summary": "Type 9 is easygoing and accepting.",
+    "description": "Type 9 seeks inner and outer peace.",
+    "wings": []
+  }
+]
